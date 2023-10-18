@@ -1,0 +1,30 @@
+.text-center{
+    text-align: center;
+  }
+  
+  .bg-orange{
+    background: orange;
+  }
+
+  .bg-white{
+    background: #ffffff;
+  }
+  
+  .mx-auto{
+    margin: auto;
+  }
+
+  .mx-wv-30{
+     max-width: 30vw;
+  }
+  
+  .flex{
+    display:flex;
+  } 
+  .flex-col{
+    flex-direction: column;
+  }
+  
+  .items-center{
+    align-items: center;
+  }
